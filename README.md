@@ -1,2 +1,2 @@
 # DataStructures
-This reco have code of my DSA practice
+This repository have code of my DSA practice
